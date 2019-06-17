@@ -344,7 +344,7 @@ md = {
       dataCompletedTasksChart = {
         labels: ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A'],
         series: [
-          [23, 75, 45, 30, 28, 24, 20, 19]
+          [2, 7, 4, 3, 6, 3, 2, 1]
         ]
       };
 
@@ -353,7 +353,7 @@ md = {
           tension: 0
         }),
         low: 0,
-        high: 100, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
+        high: 8, // creative tim: we recommend you to set the high sa the biggest value + something for a better look
         chartPadding: {
           top: 0,
           right: 0,
